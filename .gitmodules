@@ -1,3 +1,6 @@
 [submodule "SandraKilpatrick"]
 	path = SandraKilpatrick
 	url = https://github.com/SandraKilpatrick/bike_data.git
+[submodule "JeffMcGehee"]
+	path = JeffMcGehee
+	url = https://jeff_mcgehee@bitbucket.org/jeff_mcgehee/cds_bike_data_analysis.git
