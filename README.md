@@ -16,6 +16,8 @@ https://public.tableau.com/profile/sandra.kilpatrick#!/vizhome/ChattanoogaBikeDa
 * Station Locations
 * Possible routes
 
+###General Usage Statistics
+
 ###Reasoning Behind Station Locations
 * Is it optimal
 * Nearby attractions
